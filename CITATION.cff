@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this manifesto or its principles in your work, please cite it as below."
+authors:
+- family-names: "Hanif"
+  given-names: "Teknoloji Manifestosu"
+title: "Hanif Teknoloji Manifestosu: Fitrata Uygun Makineleşme ve Ontolojik Bağımsızlık Bildirgesi"
+version: 1.0.0
+date-released: 2026-04-19
+url: "https://github.com/arch-yunus/Hanif-Teknoloji-Manifestosu"
